@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824338175530",
+    "project_id": "audiovideocallexample-4f1c0",
+    "storage_bucket": "audiovideocallexample-4f1c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824338175530:android:aeced939d6c2d8504fd553",
+        "android_client_info": {
+          "package_name": "com.example.audiovideocallexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824338175530-r1v28c7gbcr6l7diodua2irld8dl8fak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrQuvWhpOcUxh5DXQjSMV4cnKI-wXK7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824338175530-r1v28c7gbcr6l7diodua2irld8dl8fak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
